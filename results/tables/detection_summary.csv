@@ -1,0 +1,78 @@
+camera_id,camera,file,original_width_px,original_height_px,orientation_normalization,pattern_detected,detection_method
+iphone15,Apple iPhone 15,IMG_9209.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9210.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9211.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9212.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9213.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9214.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9215.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9216.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9217.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9218.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9219.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9220.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9221.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9222.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9223.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9224.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9225.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9226.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9227.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9228.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9229.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9230.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9231.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9232.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9233.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9234.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9235.HEIC,5712,4284,rotated_90_cw,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9236.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9237.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9238.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9239.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9240.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9241.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9242.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9243.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9244.HEIC,5712,4284,rotated_90_cw,True,findChessboardCorners+cornerSubPix
+iphone15,Apple iPhone 15,IMG_9245.HEIC,4284,5712,original,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9246.HEIC,5712,4284,rotated_90_cw,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9247.HEIC,5712,4284,rotated_90_cw,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9248.HEIC,5712,4284,rotated_90_cw,True,findChessboardCornersSB
+iphone15,Apple iPhone 15,IMG_9249.HEIC,5712,4284,rotated_90_cw,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0144.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0145.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0146.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0147.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0148.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0149.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0150.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0151.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0152.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0153.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0154.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0155.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0156.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0157.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0158.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0159.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0160.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0161.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0162.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0163.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0164.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0165.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0166.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0167.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0168.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0169.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0170.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0171.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0172.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0173.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0174.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0175.HEIC,3264,2448,rotated_90_cw,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0176.HEIC,3264,2448,rotated_90_cw,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0177.HEIC,3264,2448,rotated_90_cw,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0178.HEIC,2448,3264,original,True,findChessboardCornersSB
+ipad9,Apple iPad (9ª geração),IMG_0179.HEIC,2448,3264,original,True,findChessboardCornersSB

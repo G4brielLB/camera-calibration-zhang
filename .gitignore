@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Original calibration images
+images/iphone15/*
+images/ipad9/*
+
+# Keep directory structure
+!images/iphone15/.gitkeep
+!images/ipad9/.gitkeep
+
+# Optional temporary outputs
+tmp/
