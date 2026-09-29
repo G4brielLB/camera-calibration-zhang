@@ -9,6 +9,17 @@ __pycache__/
 # macOS
 .DS_Store
 
+# Xcode local state
+**/xcuserdata/
+*.xcuserstate
+**/DerivedData/
+
+# Xcode build artifacts (preventivo)
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
 # Original calibration images
 images/iphone15/*
 images/ipad9/*

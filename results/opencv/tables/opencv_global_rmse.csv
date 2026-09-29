@@ -1,0 +1,5 @@
+camera_id,camera,variant,opencv_returned_rms_px,computed_global_rmse_px,absolute_difference_px
+iphone15,Apple iPhone 15,standard,1.3821094094942894,1.3821067790039478,2.630490341548608e-06
+iphone15,Apple iPhone 15,restricted,1.7366296260361636,1.7366287751502372,8.508859263844926e-07
+ipad9,Apple iPad (9ª geração),standard,0.8698173005986336,0.8698186158854211,1.315286787484382e-06
+ipad9,Apple iPad (9ª geração),restricted,0.9219261208855917,0.9219249592869646,1.1615986270641088e-06
